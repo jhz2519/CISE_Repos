@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   name: CI_action
+=======
+name: CI_action
+>>>>>>> f1fede10c20255bfbcf901f3cf7c5e344f5f71d7
 
   on:
     push:
